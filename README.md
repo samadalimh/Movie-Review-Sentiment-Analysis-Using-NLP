@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ![m2](https://github.com/user-attachments/assets/08a35ef3-eb47-4b66-9582-48660efdcca6)
 ![m1](https://github.com/user-attachments/assets/f0ffbcfb-62d5-4b44-b303-f855ef99a9b6)
 # movie_review_sentiment_prediction
